@@ -1,1 +1,11 @@
-Dependencies Needed
+##Dependencies Needed
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imblearn
+jupyter
